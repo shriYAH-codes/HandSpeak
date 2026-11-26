@@ -1,0 +1,7 @@
+/*
+Implement speech output.
+Allow users to replay messages.
+Create a message history.
+Add functionality to clear history.
+Prevent repeated speech from continuous sensor readings.
+*/
